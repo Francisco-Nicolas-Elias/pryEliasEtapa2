@@ -35,6 +35,7 @@
             // 
             // btnAuto
             // 
+            this.btnAuto.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnAuto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAuto.Location = new System.Drawing.Point(10, 291);
             this.btnAuto.Name = "btnAuto";
@@ -45,6 +46,7 @@
             // 
             // btnBarco
             // 
+            this.btnBarco.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnBarco.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBarco.Location = new System.Drawing.Point(172, 291);
             this.btnBarco.Name = "btnBarco";
@@ -55,6 +57,7 @@
             // 
             // btnAvion
             // 
+            this.btnAvion.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnAvion.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAvion.Location = new System.Drawing.Point(342, 291);
             this.btnAvion.Name = "btnAvion";

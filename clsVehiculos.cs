@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace pryEliasEtapa2
 {
@@ -12,6 +14,7 @@ namespace pryEliasEtapa2
 
         string Nombre;
         string Tipo;
+        PictureBox Imagen;//Preguntar si el tipo de variable que debe ser imagen PictureBox
 
 
         public void CrearVehiculo()
